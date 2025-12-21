@@ -77,6 +77,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/madhumita1301/DSA-SHEET/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0160-intersection-of-two-linked-lists](https://github.com/madhumita1301/DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
