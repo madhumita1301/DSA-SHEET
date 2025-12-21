@@ -26,6 +26,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
+| [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
 | [1550-three-consecutive-odds](https://github.com/madhumita1301/DSA-SHEET/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2191-sort-the-jumbled-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2191-sort-the-jumbled-numbers) |
@@ -263,4 +264,16 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
