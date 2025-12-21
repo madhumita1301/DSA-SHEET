@@ -9,6 +9,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0001-two-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/madhumita1301/DSA-SHEET/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
@@ -29,6 +30,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/madhumita1301/DSA-SHEET/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0052-n-queens-ii) |
 ## Matrix
