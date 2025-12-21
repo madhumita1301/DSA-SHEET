@@ -15,6 +15,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
+| [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,11 +47,13 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
