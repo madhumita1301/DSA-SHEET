@@ -80,6 +80,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/madhumita1301/DSA-SHEET/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhumita1301/DSA-SHEET/tree/master/0225-implement-stack-using-queues) |
@@ -127,6 +128,7 @@ Code Solutions to all the DSA problems solved by me.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 ## Sorting
