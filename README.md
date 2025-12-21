@@ -69,6 +69,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0155-min-stack](https://github.com/madhumita1301/DSA-SHEET/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhumita1301/DSA-SHEET/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -86,10 +87,12 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0155-min-stack](https://github.com/madhumita1301/DSA-SHEET/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhumita1301/DSA-SHEET/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhumita1301/DSA-SHEET/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
