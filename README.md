@@ -13,6 +13,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/madhumita1301/DSA-SHEET/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
@@ -136,6 +137,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
