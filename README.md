@@ -8,6 +8,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -21,6 +22,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
