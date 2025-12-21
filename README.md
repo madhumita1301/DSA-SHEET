@@ -172,6 +172,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
