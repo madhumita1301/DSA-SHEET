@@ -22,6 +22,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
@@ -194,6 +195,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,4 +208,8 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
