@@ -6,10 +6,12 @@ Code Solutions to all the DSA problems solved by me.
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
@@ -18,5 +20,6 @@ Code Solutions to all the DSA problems solved by me.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
