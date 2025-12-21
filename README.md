@@ -94,6 +94,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
