@@ -9,6 +9,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
+| [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -89,4 +90,17 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madhumita1301/DSA-SHEET/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
