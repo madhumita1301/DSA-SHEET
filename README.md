@@ -50,6 +50,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
@@ -70,9 +71,11 @@ Code Solutions to all the DSA problems solved by me.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
