@@ -21,6 +21,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
@@ -45,6 +46,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0160-intersection-of-two-linked-lists](https://github.com/madhumita1301/DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 ## Backtracking
@@ -141,6 +143,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhumita1301/DSA-SHEET/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -182,6 +185,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2191-sort-the-jumbled-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2191-sort-the-jumbled-numbers) |
@@ -199,6 +203,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +212,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0162-find-peak-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
