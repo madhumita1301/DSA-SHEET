@@ -32,6 +32,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [3151-special-array-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3151-special-array-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -147,6 +148,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Design
 |  |
