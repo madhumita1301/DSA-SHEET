@@ -66,6 +66,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/madhumita1301/DSA-SHEET/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -78,4 +79,8 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/madhumita1301/DSA-SHEET/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
