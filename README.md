@@ -18,6 +18,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
@@ -182,6 +183,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 ## Monotonic Stack
 |  |
 | ------- |
