@@ -7,6 +7,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
@@ -86,6 +87,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
