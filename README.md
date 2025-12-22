@@ -7,6 +7,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/madhumita1301/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
@@ -111,6 +112,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/madhumita1301/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0027-remove-element) |
@@ -212,6 +214,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/madhumita1301/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
