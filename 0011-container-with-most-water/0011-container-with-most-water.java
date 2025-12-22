@@ -3,8 +3,8 @@ class Solution {
         int l = 0, r = height.length - 1;
         int ans = 0;
         while (l < r) {
-            int t = Math.min(height[l], height[r]) * (r - l);
-            ans = Math.max(ans, t);
+            int area = Math.min(height[l], height[r]) * (r - l);
+            ans = Math.max(ans, area);
             if (height[l] < height[r]) {
                 ++l;
             } else {
