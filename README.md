@@ -192,6 +192,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -281,4 +282,8 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
+## Enumeration
+|  |
+| ------- |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
