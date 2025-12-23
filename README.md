@@ -13,6 +13,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0027-remove-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/madhumita1301/DSA-SHEET/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/madhumita1301/DSA-SHEET/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
@@ -47,6 +48,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0001-two-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/madhumita1301/DSA-SHEET/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
