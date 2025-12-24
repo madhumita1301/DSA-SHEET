@@ -43,6 +43,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [3151-special-array-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3151-special-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -65,6 +66,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
 |  |
 | ------- |
@@ -238,6 +240,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
