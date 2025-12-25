@@ -19,6 +19,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/madhumita1301/DSA-SHEET/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0136-single-number) |
@@ -131,6 +132,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/madhumita1301/DSA-SHEET/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhumita1301/DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +219,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/madhumita1301/DSA-SHEET/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
