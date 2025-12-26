@@ -55,6 +55,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhumita1301/DSA-SHEET/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/madhumita1301/DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
 ## Union Find
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
+| [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
 |  |
 | ------- |
