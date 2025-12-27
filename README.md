@@ -44,6 +44,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
+| [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/madhumita1301/DSA-SHEET/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -235,6 +236,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/madhumita1301/DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
+| [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -317,6 +319,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
