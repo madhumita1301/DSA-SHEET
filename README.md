@@ -39,6 +39,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
@@ -168,6 +169,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -256,6 +258,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
