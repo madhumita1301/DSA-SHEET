@@ -171,6 +171,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
@@ -248,6 +249,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/madhumita1301/DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
@@ -367,6 +369,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
