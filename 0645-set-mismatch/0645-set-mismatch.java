@@ -2,7 +2,7 @@ class Solution {
     public int[] findErrorNums(int[] nums) {
         int n = nums.length;
         int ans[] = new int[2];
-        int total = n * (n + 1) / 2; //sum of n natural nos
+        int total = n * (n + 1) / 2; 
         HashSet<Integer> st = new HashSet<>();
         int sum = 0;
         int dupe = 0;
