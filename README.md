@@ -39,6 +39,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
@@ -217,6 +218,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
@@ -277,6 +279,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
