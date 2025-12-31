@@ -4,10 +4,8 @@ class Solution {
         int cnt[] = new int[n];
         for (int i = 0; i < n; i++) {
             cnt[nums[i]]++;
-        }
-        for (int i = 0; i < cnt.length; i++) {
-            if (cnt[i] > 1)
-                return i;
+            if (cnt[nums[i]] > 1)
+                return nums[i];
         }
         return -1;
     }
