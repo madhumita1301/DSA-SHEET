@@ -230,6 +230,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0050-powx-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhumita1301/DSA-SHEET/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
@@ -406,6 +407,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
@@ -421,4 +423,8 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
