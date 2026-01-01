@@ -48,6 +48,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
