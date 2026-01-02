@@ -290,6 +290,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
+| [0551-student-attendance-record-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0551-student-attendance-record-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/madhumita1301/DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
