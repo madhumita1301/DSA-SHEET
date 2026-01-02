@@ -66,6 +66,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1550-three-consecutive-odds](https://github.com/madhumita1301/DSA-SHEET/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-get-maximum-in-generated-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1646-get-maximum-in-generated-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhumita1301/DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1991-find-the-middle-index-in-array) |
@@ -289,6 +290,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1108-defanging-an-ip-address](https://github.com/madhumita1301/DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhumita1301/DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
