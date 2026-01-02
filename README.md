@@ -34,6 +34,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0162-find-peak-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/madhumita1301/DSA-SHEET/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/madhumita1301/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0238-product-of-array-except-self) |
@@ -422,6 +423,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/madhumita1301/DSA-SHEET/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
 ## Binary Indexed Tree
