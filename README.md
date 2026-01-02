@@ -79,6 +79,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3046-split-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhumita1301/DSA-SHEET/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/madhumita1301/DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-special-array-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3151-special-array-i) |
@@ -155,6 +156,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1929-concatenation-of-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3379-transformed-array) |
 ## Prefix Sum
