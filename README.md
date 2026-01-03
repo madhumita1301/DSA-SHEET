@@ -105,6 +105,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhumita1301/DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/madhumita1301/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
@@ -205,6 +206,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0142-linked-list-cycle-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhumita1301/DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
@@ -247,6 +249,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhumita1301/DSA-SHEET/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
