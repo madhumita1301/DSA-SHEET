@@ -19,6 +19,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0041-first-missing-positive](https://github.com/madhumita1301/DSA-SHEET/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/madhumita1301/DSA-SHEET/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
@@ -411,6 +412,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
@@ -451,6 +453,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
