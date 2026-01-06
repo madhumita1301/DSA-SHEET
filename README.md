@@ -53,6 +53,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/madhumita1301/DSA-SHEET/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
@@ -353,6 +354,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0011-container-with-most-water](https://github.com/madhumita1301/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/madhumita1301/DSA-SHEET/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhumita1301/DSA-SHEET/tree/master/3074-apple-redistribution-into-boxes) |
