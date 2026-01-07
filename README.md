@@ -65,6 +65,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1390-four-divisors) |
