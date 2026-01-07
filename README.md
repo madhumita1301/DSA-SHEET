@@ -9,6 +9,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0001-two-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/madhumita1301/DSA-SHEET/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0027-remove-element) |
@@ -307,6 +308,7 @@ Code Solutions to all the DSA problems solved by me.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/0058-length-of-last-word) |
@@ -489,4 +491,8 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
