@@ -50,6 +50,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
@@ -127,6 +128,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
@@ -180,6 +182,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
