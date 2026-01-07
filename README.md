@@ -62,6 +62,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
@@ -343,6 +344,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -446,6 +448,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3046-split-the-array) |
