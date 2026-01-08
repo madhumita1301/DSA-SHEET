@@ -84,6 +84,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1646-get-maximum-in-generated-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhumita1301/DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -240,6 +241,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -421,6 +423,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
