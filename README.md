@@ -28,6 +28,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
@@ -490,6 +491,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0053-maximum-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0152-maximum-product-subarray) |
