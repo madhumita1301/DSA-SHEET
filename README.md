@@ -95,6 +95,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2191-sort-the-jumbled-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2191-sort-the-jumbled-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
+| [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
@@ -143,6 +144,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
+| [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3046-split-the-array) |
@@ -476,6 +478,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
+| [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [3046-split-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
