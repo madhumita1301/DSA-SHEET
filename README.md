@@ -40,6 +40,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0198-house-robber](https://github.com/madhumita1301/DSA-SHEET/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/madhumita1301/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
@@ -126,6 +127,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/madhumita1301/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
@@ -348,6 +350,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0088-merge-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhumita1301/DSA-SHEET/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
@@ -467,6 +470,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
