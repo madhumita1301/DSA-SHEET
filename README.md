@@ -273,6 +273,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0206-reverse-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -287,6 +288,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0202-happy-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/madhumita1301/DSA-SHEET/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0492-construct-the-rectangle) |
