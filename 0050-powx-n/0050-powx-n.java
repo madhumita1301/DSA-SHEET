@@ -1,22 +1,26 @@
 class Solution {
     public double myPow(double x, int n) {
-        // long power = n;      // convert to long to avoid overflow
-        double result = 1.0;
-        result = Math.pow(x, n);
+        // double result = 1.0;
+        // result = Math.pow(x, n);
+        // return result;
 
-        // if (power < 0) {
-        //     x = 1 / x;
-        //     power = -power;
-        // }
+        long N = n;                
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
+        }
+        return power(x, N);
+    }
 
-        // while (power > 0) {
-        //     if ((power & 1) == 1) {   // if power is odd
-        //         result *= x;
-        //     }
-        //     x *= x;       // square the base
-        //     power >>= 1;  // divide power by 2
-        // }
+     double power(double x, long n) {
+        if (n == 0) return 1.0;
+        double half = power(x, n / 2);
 
-        return result;
+        if (n % 2 == 0)
+            return half * half;
+        else
+            return half * half * x;
     }
 }
+
+
