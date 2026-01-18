@@ -101,6 +101,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2191-sort-the-jumbled-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2191-sort-the-jumbled-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
@@ -304,6 +305,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1390-four-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Design
