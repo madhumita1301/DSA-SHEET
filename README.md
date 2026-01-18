@@ -52,6 +52,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0283-move-zeroes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -403,6 +404,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhumita1301/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/madhumita1301/DSA-SHEET/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
