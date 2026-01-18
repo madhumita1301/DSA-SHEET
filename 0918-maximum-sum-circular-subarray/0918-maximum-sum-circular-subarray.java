@@ -1,7 +1,6 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
         int totalSum = 0;
-
         int curMax = 0, maxSum = nums[0];
         int curMin = 0, minSum = nums[0];
 
