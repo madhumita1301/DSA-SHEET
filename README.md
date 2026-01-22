@@ -39,6 +39,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0162-find-peak-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/madhumita1301/DSA-SHEET/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0213-house-robber-ii) |
@@ -176,6 +177,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -524,6 +526,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/madhumita1301/DSA-SHEET/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
