@@ -42,6 +42,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0174-dungeon-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/madhumita1301/DSA-SHEET/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/madhumita1301/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
@@ -204,6 +205,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0724-find-pivot-index) |
@@ -332,6 +334,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
@@ -443,6 +446,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/madhumita1301/DSA-SHEET/tree/master/0278-first-bad-version) |
