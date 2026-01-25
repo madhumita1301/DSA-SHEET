@@ -100,6 +100,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -339,6 +340,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1331-rank-transform-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2191-sort-the-jumbled-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2191-sort-the-jumbled-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
