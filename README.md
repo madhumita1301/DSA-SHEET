@@ -131,6 +131,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/madhumita1301/DSA-SHEET/tree/master/0041-first-missing-positive) |
@@ -299,6 +300,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0002-add-two-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhumita1301/DSA-SHEET/tree/master/0069-sqrtx) |
@@ -355,6 +357,7 @@ Code Solutions to all the DSA problems solved by me.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
