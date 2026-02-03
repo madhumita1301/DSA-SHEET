@@ -59,6 +59,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
