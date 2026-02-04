@@ -114,6 +114,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/madhumita1301/DSA-SHEET/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -274,6 +275,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/madhumita1301/DSA-SHEET/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Stack
 |  |
 | ------- |
