@@ -77,6 +77,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
@@ -215,6 +216,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0238-product-of-array-except-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -347,6 +349,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
@@ -472,6 +475,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
