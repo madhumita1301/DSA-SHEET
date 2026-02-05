@@ -42,6 +42,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0174-dungeon-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/madhumita1301/DSA-SHEET/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/madhumita1301/DSA-SHEET/tree/master/0217-contains-duplicate) |
@@ -315,6 +316,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/0326-power-of-three) |
@@ -544,6 +546,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Dynamic Programming
 |  |
@@ -574,6 +577,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 ## Memoization
 |  |
