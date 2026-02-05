@@ -92,6 +92,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1394-find-lucky-integer-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
 | [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/1528-shuffle-string) |
@@ -358,6 +359,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -415,6 +417,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1200-minimum-absolute-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2089-find-target-indices-after-sorting-array) |
