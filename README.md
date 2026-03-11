@@ -318,6 +318,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0066-plus-one](https://github.com/madhumita1301/DSA-SHEET/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhumita1301/DSA-SHEET/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
@@ -382,6 +383,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0058-length-of-last-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/madhumita1301/DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
