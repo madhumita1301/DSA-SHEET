@@ -199,6 +199,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -290,6 +291,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/madhumita1301/DSA-SHEET/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhumita1301/DSA-SHEET/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
@@ -603,4 +605,12 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
