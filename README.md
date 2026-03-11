@@ -135,6 +135,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
@@ -344,6 +345,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Design
 |  |
 | ------- |
