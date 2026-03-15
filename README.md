@@ -350,6 +350,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
