@@ -290,6 +290,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0922-sort-array-by-parity-ii) |
@@ -346,6 +347,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0492-construct-the-rectangle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumita1301/DSA-SHEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
@@ -518,6 +520,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/madhumita1301/DSA-SHEET/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
