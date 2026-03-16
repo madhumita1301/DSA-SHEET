@@ -354,6 +354,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2119-a-number-after-a-double-reversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2651-calculate-delayed-arrival-time](https://github.com/madhumita1301/DSA-SHEET/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
