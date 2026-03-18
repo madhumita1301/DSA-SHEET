@@ -352,6 +352,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumita1301/DSA-SHEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
@@ -589,6 +590,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/1492-the-kth-factor-of-n) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Dynamic Programming
 |  |
