@@ -118,6 +118,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2057-smallest-index-with-equal-value](https://github.com/madhumita1301/DSA-SHEET/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhumita1301/DSA-SHEET/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2191-sort-the-jumbled-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2191-sort-the-jumbled-numbers) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -298,6 +299,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhumita1301/DSA-SHEET/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/madhumita1301/DSA-SHEET/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Stack
@@ -354,6 +356,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1390-four-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -385,6 +388,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2401-longest-nice-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/2401-longest-nice-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -608,6 +612,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0509-fibonacci-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0918-maximum-sum-circular-subarray) |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Indexed Tree
 |  |
 | ------- |
