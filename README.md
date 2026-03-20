@@ -69,6 +69,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhumita1301/DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/madhumita1301/DSA-SHEET/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -484,6 +485,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0179-largest-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhumita1301/DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/madhumita1301/DSA-SHEET/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -610,6 +612,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0213-house-robber-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhumita1301/DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0918-maximum-sum-circular-subarray) |
 | [1395-count-number-of-teams](https://github.com/madhumita1301/DSA-SHEET/tree/master/1395-count-number-of-teams) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
