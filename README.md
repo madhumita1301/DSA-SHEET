@@ -344,6 +344,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0069-sqrtx](https://github.com/madhumita1301/DSA-SHEET/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
