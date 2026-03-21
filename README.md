@@ -171,6 +171,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
@@ -382,6 +383,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0225-implement-stack-using-queues](https://github.com/madhumita1301/DSA-SHEET/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
@@ -420,6 +422,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0179-largest-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/madhumita1301/DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
@@ -589,6 +592,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
