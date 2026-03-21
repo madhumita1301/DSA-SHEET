@@ -185,6 +185,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2154-keep-multiplying-found-values-by-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -429,6 +430,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhumita1301/DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3136-valid-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/3136-valid-word) |
@@ -507,6 +509,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/2401-longest-nice-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
@@ -592,6 +595,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [3046-split-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
