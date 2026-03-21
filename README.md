@@ -133,6 +133,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3028-ant-on-the-boundary](https://github.com/madhumita1301/DSA-SHEET/tree/master/3028-ant-on-the-boundary) |
 | [3046-split-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhumita1301/DSA-SHEET/tree/master/3074-apple-redistribution-into-boxes) |
@@ -227,6 +228,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
+| [3028-ant-on-the-boundary](https://github.com/madhumita1301/DSA-SHEET/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3379-transformed-array) |
@@ -242,6 +244,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3028-ant-on-the-boundary](https://github.com/madhumita1301/DSA-SHEET/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Linked List
 |  |
