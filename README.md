@@ -236,6 +236,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [3028-ant-on-the-boundary](https://github.com/madhumita1301/DSA-SHEET/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhumita1301/DSA-SHEET/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3379-transformed-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -374,6 +375,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2651-calculate-delayed-arrival-time](https://github.com/madhumita1301/DSA-SHEET/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhumita1301/DSA-SHEET/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
