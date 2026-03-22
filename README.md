@@ -57,6 +57,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -453,6 +454,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
@@ -597,6 +599,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0169-majority-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
