@@ -18,6 +18,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0036-valid-sudoku](https://github.com/madhumita1301/DSA-SHEET/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/madhumita1301/DSA-SHEET/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/madhumita1301/DSA-SHEET/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/madhumita1301/DSA-SHEET/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/madhumita1301/DSA-SHEET/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0053-maximum-subarray) |
@@ -490,6 +491,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhumita1301/DSA-SHEET/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/madhumita1301/DSA-SHEET/tree/master/0134-gas-station) |
@@ -615,6 +617,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/0070-climbing-stairs) |
