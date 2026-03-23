@@ -135,6 +135,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/madhumita1301/DSA-SHEET/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/madhumita1301/DSA-SHEET/tree/master/3028-ant-on-the-boundary) |
 | [3046-split-the-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3046-split-the-array) |
@@ -656,6 +657,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 ## Memoization
 |  |
