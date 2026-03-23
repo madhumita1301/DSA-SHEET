@@ -110,6 +110,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-get-maximum-in-generated-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhumita1301/DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1748-sum-of-unique-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -188,6 +189,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
@@ -612,6 +614,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/1748-sum-of-unique-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
