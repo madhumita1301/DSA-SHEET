@@ -452,6 +452,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3110-score-of-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/3136-valid-word) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 ## Sorting
