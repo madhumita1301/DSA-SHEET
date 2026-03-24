@@ -133,6 +133,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2401-longest-nice-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/2401-longest-nice-subarray) |
 | [2404-most-frequent-even-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/madhumita1301/DSA-SHEET/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
@@ -379,6 +380,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2119-a-number-after-a-double-reversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2651-calculate-delayed-arrival-time](https://github.com/madhumita1301/DSA-SHEET/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhumita1301/DSA-SHEET/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
