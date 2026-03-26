@@ -368,6 +368,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/madhumita1301/DSA-SHEET/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/madhumita1301/DSA-SHEET/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
@@ -703,4 +704,8 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/madhumita1301/DSA-SHEET/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
