@@ -8,9 +8,7 @@ class Solution {
             freq[num]++;
         }
         for (int num : freq) {
-            if (num == 0)
-                continue;
-            if (num != 0 && num % 2 != 0)
+            if (num % 2 != 0)
                 return false;
         }
         return true;
