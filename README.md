@@ -192,6 +192,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhumita1301/DSA-SHEET/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/madhumita1301/DSA-SHEET/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -456,6 +457,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1108-defanging-an-ip-address](https://github.com/madhumita1301/DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/1528-shuffle-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/madhumita1301/DSA-SHEET/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhumita1301/DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
