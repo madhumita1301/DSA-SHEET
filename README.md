@@ -140,6 +140,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/madhumita1301/DSA-SHEET/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3028-ant-on-the-boundary](https://github.com/madhumita1301/DSA-SHEET/tree/master/3028-ant-on-the-boundary) |
@@ -508,6 +509,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhumita1301/DSA-SHEET/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/madhumita1301/DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
