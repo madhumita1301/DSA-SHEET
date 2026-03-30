@@ -75,6 +75,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0485-max-consecutive-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
+| [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
@@ -505,6 +506,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
@@ -549,6 +551,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0179-largest-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhumita1301/DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/madhumita1301/DSA-SHEET/tree/master/0860-lemonade-change) |
@@ -658,6 +661,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0229-majority-element-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
