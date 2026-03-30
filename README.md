@@ -71,6 +71,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
@@ -325,6 +326,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
@@ -501,6 +503,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0436-find-right-interval](https://github.com/madhumita1301/DSA-SHEET/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
@@ -592,6 +595,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/madhumita1301/DSA-SHEET/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/madhumita1301/DSA-SHEET/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
