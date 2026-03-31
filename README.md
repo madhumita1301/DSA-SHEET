@@ -76,6 +76,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
@@ -552,6 +553,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0334-increasing-triplet-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhumita1301/DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/madhumita1301/DSA-SHEET/tree/master/0860-lemonade-change) |
