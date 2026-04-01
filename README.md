@@ -66,6 +66,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0334-increasing-triplet-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/madhumita1301/DSA-SHEET/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -237,6 +238,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0074-search-a-2d-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/madhumita1301/DSA-SHEET/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
@@ -443,6 +445,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -500,6 +503,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0274-h-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/madhumita1301/DSA-SHEET/tree/master/0436-find-right-interval) |
@@ -599,6 +603,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0349-intersection-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/madhumita1301/DSA-SHEET/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhumita1301/DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/madhumita1301/DSA-SHEET/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
