@@ -77,6 +77,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
@@ -199,6 +200,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
@@ -434,6 +436,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0209-minimum-size-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -512,6 +515,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
@@ -669,6 +673,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0274-h-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/madhumita1301/DSA-SHEET/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1122-relative-sort-array) |
