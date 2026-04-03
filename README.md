@@ -74,6 +74,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
@@ -200,6 +201,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0409-longest-palindrome](https://github.com/madhumita1301/DSA-SHEET/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
@@ -359,6 +361,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0232-implement-queue-using-stacks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -629,6 +632,7 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
