@@ -261,6 +261,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/madhumita1301/DSA-SHEET/tree/master/0657-robot-return-to-origin) |
 | [1646-get-maximum-in-generated-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -482,6 +483,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0551-student-attendance-record-i) |
+| [0657-robot-return-to-origin](https://github.com/madhumita1301/DSA-SHEET/tree/master/0657-robot-return-to-origin) |
 | [0830-positions-of-large-groups](https://github.com/madhumita1301/DSA-SHEET/tree/master/0830-positions-of-large-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/madhumita1301/DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
