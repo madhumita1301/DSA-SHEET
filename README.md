@@ -273,6 +273,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3379-transformed-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3813-vowel-consonant-score](https://github.com/madhumita1301/DSA-SHEET/tree/master/3813-vowel-consonant-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -497,6 +498,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3110-score-of-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/3136-valid-word) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3813-vowel-consonant-score](https://github.com/madhumita1301/DSA-SHEET/tree/master/3813-vowel-consonant-score) |
 ## Sorting
 |  |
 | ------- |
