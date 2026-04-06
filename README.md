@@ -408,6 +408,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumita1301/DSA-SHEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/madhumita1301/DSA-SHEET/tree/master/1925-count-square-sum-triples) |
@@ -595,6 +596,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0287-find-the-duplicate-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/2401-longest-nice-subarray) |
