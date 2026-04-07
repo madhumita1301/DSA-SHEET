@@ -498,6 +498,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1528-shuffle-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/1528-shuffle-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/madhumita1301/DSA-SHEET/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhumita1301/DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/madhumita1301/DSA-SHEET/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
