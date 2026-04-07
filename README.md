@@ -77,6 +77,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0496-next-greater-element-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0605-can-place-flowers) |
@@ -402,6 +403,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/madhumita1301/DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -485,6 +487,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0392-is-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/madhumita1301/DSA-SHEET/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/madhumita1301/DSA-SHEET/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/madhumita1301/DSA-SHEET/tree/master/0657-robot-return-to-origin) |
@@ -527,6 +530,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0455-assign-cookies](https://github.com/madhumita1301/DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/madhumita1301/DSA-SHEET/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/madhumita1301/DSA-SHEET/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/madhumita1301/DSA-SHEET/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
