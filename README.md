@@ -175,6 +175,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3483-unique-3-digit-even-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/3483-unique-3-digit-even-numbers) |
 | [3637-trionic-array-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3637-trionic-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/3483-unique-3-digit-even-numbers) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Backtracking
 |  |
 | ------- |
