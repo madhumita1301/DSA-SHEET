@@ -170,6 +170,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3354-make-array-elements-equal-to-zero](https://github.com/madhumita1301/DSA-SHEET/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3379-transformed-array) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3452-sum-of-good-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/madhumita1301/DSA-SHEET/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/3483-unique-3-digit-even-numbers) |
 | [3637-trionic-array-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3637-trionic-array-i) |
