@@ -791,4 +791,8 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
