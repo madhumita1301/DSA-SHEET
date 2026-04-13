@@ -128,6 +128,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1800-maximum-ascending-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumita1301/DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
