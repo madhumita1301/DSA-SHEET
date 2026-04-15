@@ -152,6 +152,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/madhumita1301/DSA-SHEET/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2596-check-knight-tour-configuration](https://github.com/madhumita1301/DSA-SHEET/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/2733-neither-minimum-nor-maximum) |
@@ -509,6 +510,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3110-score-of-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/3136-valid-word) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
