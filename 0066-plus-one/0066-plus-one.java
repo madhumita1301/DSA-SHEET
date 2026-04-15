@@ -9,7 +9,7 @@ class Solution {
             }
         }
         digits = new int[n + 1];
-        digits[0] = 1;   //After the loop completes, digits is [0, 0] for input 99
+        digits[0] = 1;    
         return digits;
     }
 }
