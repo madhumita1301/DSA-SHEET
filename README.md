@@ -86,6 +86,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/madhumita1301/DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhumita1301/DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/madhumita1301/DSA-SHEET/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -289,6 +290,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0209-minimum-size-subarray-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/madhumita1301/DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/madhumita1301/DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/madhumita1301/DSA-SHEET/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
@@ -456,6 +458,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0239-sliding-window-maximum](https://github.com/madhumita1301/DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/madhumita1301/DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/madhumita1301/DSA-SHEET/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -642,6 +645,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0611-valid-triangle-number](https://github.com/madhumita1301/DSA-SHEET/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/madhumita1301/DSA-SHEET/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/madhumita1301/DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhumita1301/DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1095-find-in-mountain-array) |
