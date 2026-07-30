@@ -8,12 +8,11 @@ class Solution {
         while (left <= right) {
             int l = nums[left] * nums[left];
             int r = nums[right] * nums[right];
-            if(l>r){
-                ans[idx--]=l;
+            if (l > r) {
+                ans[idx--] = l;
                 left++;
-            }
-            else{
-                ans[idx--]=r;
+            } else {
+                ans[idx--] = r;
                 right--;
 
             }
