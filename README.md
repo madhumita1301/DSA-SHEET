@@ -433,6 +433,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2485-find-the-pivot-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/2485-find-the-pivot-integer) |
 | [2651-calculate-delayed-arrival-time](https://github.com/madhumita1301/DSA-SHEET/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhumita1301/DSA-SHEET/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/madhumita1301/DSA-SHEET/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -516,6 +517,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2418-sort-the-people](https://github.com/madhumita1301/DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhumita1301/DSA-SHEET/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/madhumita1301/DSA-SHEET/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/madhumita1301/DSA-SHEET/tree/master/3136-valid-word) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -602,6 +604,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhumita1301/DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhumita1301/DSA-SHEET/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2706-buy-two-chocolates](https://github.com/madhumita1301/DSA-SHEET/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/madhumita1301/DSA-SHEET/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/madhumita1301/DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
