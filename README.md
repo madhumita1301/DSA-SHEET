@@ -264,6 +264,7 @@ Code Solutions to all the DSA problems solved by me.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -372,6 +373,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumita1301/DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/madhumita1301/DSA-SHEET/tree/master/0155-min-stack) |
@@ -795,11 +797,13 @@ Code Solutions to all the DSA problems solved by me.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 ## Brainteaser
