@@ -442,6 +442,7 @@ Code Solutions to all the DSA problems solved by me.
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhumita1301/DSA-SHEET/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/madhumita1301/DSA-SHEET/tree/master/3663-find-the-least-frequent-digit) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
 | ------- |
