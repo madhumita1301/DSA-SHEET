@@ -7,7 +7,6 @@ class Solution {
         int h = n - 1;
 
         while (mid <= h) {
-
             if (nums[mid] == 0) {
                 int temp = nums[l];
                 nums[l] = nums[mid];
