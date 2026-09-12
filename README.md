@@ -439,6 +439,7 @@ Code Solutions to all the DSA problems solved by me.
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/madhumita1301/DSA-SHEET/tree/master/2485-find-the-pivot-integer) |
 | [2651-calculate-delayed-arrival-time](https://github.com/madhumita1301/DSA-SHEET/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/madhumita1301/DSA-SHEET/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/madhumita1301/DSA-SHEET/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
