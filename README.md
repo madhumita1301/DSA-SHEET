@@ -434,6 +434,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1492-the-kth-factor-of-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/madhumita1301/DSA-SHEET/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1952-three-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/madhumita1301/DSA-SHEET/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/madhumita1301/DSA-SHEET/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/madhumita1301/DSA-SHEET/tree/master/2235-add-two-integers) |
@@ -748,6 +749,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/madhumita1301/DSA-SHEET/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1952-three-divisors) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/madhumita1301/DSA-SHEET/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Dynamic Programming
 |  |
@@ -784,6 +786,7 @@ Code Solutions to all the DSA problems solved by me.
 | ------- |
 | [0204-count-primes](https://github.com/madhumita1301/DSA-SHEET/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/madhumita1301/DSA-SHEET/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhumita1301/DSA-SHEET/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhumita1301/DSA-SHEET/tree/master/3483-unique-3-digit-even-numbers) |
@@ -826,4 +829,12 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/madhumita1301/DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
