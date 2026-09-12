@@ -138,6 +138,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1991-find-the-middle-index-in-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2032-two-out-of-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/madhumita1301/DSA-SHEET/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhumita1301/DSA-SHEET/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -226,6 +227,7 @@ Code Solutions to all the DSA problems solved by me.
 | [1624-largest-substring-between-two-equal-characters](https://github.com/madhumita1301/DSA-SHEET/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/madhumita1301/DSA-SHEET/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/madhumita1301/DSA-SHEET/tree/master/1748-sum-of-unique-elements) |
+| [2032-two-out-of-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/madhumita1301/DSA-SHEET/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhumita1301/DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -632,6 +634,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0389-find-the-difference](https://github.com/madhumita1301/DSA-SHEET/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/madhumita1301/DSA-SHEET/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1486-xor-operation-in-an-array) |
+| [2032-two-out-of-three](https://github.com/madhumita1301/DSA-SHEET/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/madhumita1301/DSA-SHEET/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/madhumita1301/DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/madhumita1301/DSA-SHEET/tree/master/2401-longest-nice-subarray) |
