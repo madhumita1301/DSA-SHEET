@@ -386,6 +386,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0234-palindrome-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/madhumita1301/DSA-SHEET/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumita1301/DSA-SHEET/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -520,6 +521,7 @@ Code Solutions to all the DSA problems solved by me.
 | [0657-robot-return-to-origin](https://github.com/madhumita1301/DSA-SHEET/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/madhumita1301/DSA-SHEET/tree/master/0680-valid-palindrome-ii) |
 | [0830-positions-of-large-groups](https://github.com/madhumita1301/DSA-SHEET/tree/master/0830-positions-of-large-groups) |
+| [0856-score-of-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/madhumita1301/DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/madhumita1301/DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/madhumita1301/DSA-SHEET/tree/master/1408-string-matching-in-an-array) |
@@ -837,4 +839,8 @@ Code Solutions to all the DSA problems solved by me.
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/madhumita1301/DSA-SHEET/tree/master/1952-three-divisors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/madhumita1301/DSA-SHEET/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
